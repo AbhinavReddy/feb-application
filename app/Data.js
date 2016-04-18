@@ -1,4 +1,4 @@
-console.log("master2");
+console.log("master2 master1 new");
 module.exports = {
 
   init: function() {
