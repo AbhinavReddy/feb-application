@@ -1,3 +1,4 @@
+console.log("master2");
 module.exports = {
 
   init: function() {
