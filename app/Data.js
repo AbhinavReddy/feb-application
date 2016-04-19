@@ -1,4 +1,5 @@
-console.log("newBranch");
+console.log("newBranch - 1");
+console.log("newBranch - 0");
 module.exports = {
 
   init: function() {
