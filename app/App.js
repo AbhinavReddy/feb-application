@@ -1,3 +1,5 @@
+console.log("b1 app change");
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import actions from "./actions/actions";
