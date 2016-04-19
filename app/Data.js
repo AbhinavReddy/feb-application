@@ -1,4 +1,4 @@
-console.log("master2");
+console.log("b1 data change");
 module.exports = {
 
   init: function() {
