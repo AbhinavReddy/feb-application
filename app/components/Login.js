@@ -1,3 +1,5 @@
+console.log("b1 login change");
+
 import React from "react";
 import {connect} from "react-redux";
 //var LinkedStateMixin = require('react-addons-linked-state-mixin');
