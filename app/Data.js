@@ -1,5 +1,7 @@
 console.log("newBranch - 1");
 console.log("newBranch - 0");
+console.log("master2");
+
 module.exports = {
 
   init: function() {
